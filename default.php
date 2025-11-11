@@ -89,7 +89,7 @@
     .formula {
       margin: 1.25rem auto;
       text-align: center;
-      font-size: 1.15rem;
+      font-size: .85rem;
     }
 
     .formula + .caption {
@@ -97,7 +97,7 @@
       font-style: italic;
       text-align: center;
       color: var(--muted);
-      font-size: 0.95rem;
+      font-size: 0.75rem;
     }
 
     /* Narrower measure and delicate spacing for quotes */
