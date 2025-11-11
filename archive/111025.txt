@@ -1,0 +1,13 @@
+  <body>
+    <main>
+      <h1>obscureai</h1>
+      <h2>exploring the unseen applications of intelligence</h2>
+      <p>we are a small research-led team from the university of texas at austin, building applied ai for real organizations.</p>
+      <p>our focus is the <em>hidden work</em> inside small and mid-sized businesses — the ambiguous, in‑between tasks that slip through tools and processes.</p>
+      <p>instead of chatbots, we design background llm agents that live inside existing workflows — observing, synthesizing, and quietly automating friction.</p>
+      <p>each engagement is treated as research: clear hypotheses, measured outcomes, and reproducible findings.</p>
+      <br><br>
+      <p>we are hiring! send your resume to jawad@obscureai.com</p>
+    </main>
+    <footer>© 2025 obscureai.io</footer>
+  </body>
